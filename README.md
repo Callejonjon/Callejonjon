@@ -35,8 +35,8 @@ My approach goes beyond building reports: I value understanding the business que
 <p align="left">
   <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="assets/powerbi.svg" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/microsoft-365/excel" title="Excel"><img src="assets/excel.svg" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="assets/powerbi.svg" alt="Power BI" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/microsoft-365/excel" title="Excel"><img src="assets/excel.svg" alt="Excel" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="https://www.microsoft.com/sql-server" title="SQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="https://supabase.com/" title="Supabase"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="48" height="48" /></a>&nbsp;&nbsp;
@@ -45,19 +45,6 @@ My approach goes beyond building reports: I value understanding the business que
   <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="https://github.com/" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" /></a>
-</p>
-
-**Data & development**
-
-<p align="left">
-  <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="43" width="43" /></a>&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" title="pandas"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" height="43" width="43" /></a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="43" width="43" /></a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="43" width="43" /></a>&nbsp;&nbsp;
-  <a href="https://react.dev/" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="43" width="43" /></a>&nbsp;&nbsp;
-  <a href="https://supabase.com/" title="Supabase"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" height="43" width="43" /></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="43" width="43" /></a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="43" width="43" /></a>
 </p>
 
 ---
