@@ -35,8 +35,8 @@ My approach goes beyond building reports: I value understanding the business que
 <p align="left">
   <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/microsoft-365/excel" title="Excel"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="assets/powerbi.svg" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/microsoft-365/excel" title="Excel"><img src="assets/excel.svg" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="https://www.microsoft.com/sql-server" title="SQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="https://supabase.com/" title="Supabase"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="48" height="48" /></a>&nbsp;&nbsp;
